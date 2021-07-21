@@ -18,15 +18,6 @@ Implement draw custom signature functionality in your React app similar to DocuS
 * Code-Sandbox
 * GitHub Pages for deployment
 
-## Live Version
-
-<iframe src="https://codesandbox.io/embed/github/bhavikbhoir/React-Signature-Pad/tree/main/?fontsize=14&hidenavigation=1&theme=dark"
-     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="react-signature-pad"
-     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts">
-</iframe>
-
 ## Sandbox Link
 
 https://codesandbox.io/embed/github/bhavikbhoir/React-Signature-Pad/tree/main/?fontsize=14&hidenavigation=1&theme=dark
