@@ -16,7 +16,11 @@ Implement draw custom signature functionality in your React app similar to DocuS
 ## Tools
 
 * Code-Sandbox
-* GitHub Pages for deployment
+* Netlify
+
+## Live Version
+
+https://csb-ygdnb.netlify.app/
 
 ## Sandbox Link
 
